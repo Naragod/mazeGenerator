@@ -1,0 +1,6 @@
+
+# Ignore all files and folders that begin with a period
+.*
+
+# Do not ignore this file which begins with a period
+!/.gitignore
